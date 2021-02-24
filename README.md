@@ -4,11 +4,15 @@
 网站可以对岗位名字的关键字进行搜索，也可以直接点击相关标签查看信息
 
 >首页
->![](img/index.png)
+![](img/index.png)
 
 >标签页
->![](img/tag1.png)
->![](img/tag2.png)
->![](img/tag3.png)
+![](img/tag1.png)
+![](img/tag2.png)
+![](img/tag3.png)
 
 >搜索页
+![](img/search.png)
+
+>图表页
+![](img/charts.png)
