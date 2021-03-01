@@ -32,7 +32,7 @@ def search_tag():
         result = request.form.to_dict()
         datalist = jf.getJob(result['tag'],1)
     else:
-        datalist = jf.getJob('all')
+        datalist = jf.getJob('all',0)
     return render_template('tagSearch.html',jobs=datalist,tag=result['tag'])
 
 @app.route('/python.html')
