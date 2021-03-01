@@ -9,17 +9,16 @@
 1 爬取数据      spider.py
 爬取列表
 爬取详情
-2 数据保存      job.db
+2 数据保存      51job.db
 保存列表
 保存详情
 3 搭建框架      app.py 路由   templates 页面    static 素材（图片、css、js）
 前端页面
 列表展示
-4 制作图表      echarts.js  \wordcloud
-Ecgarts
+4 制作图表      echarts.js  
+Echarts
 - 柱形图
 - 饼形图
-WordCloud
 '''
 
 import DB
