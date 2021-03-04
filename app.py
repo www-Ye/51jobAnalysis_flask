@@ -1,8 +1,9 @@
 from flask import Flask,render_template,request
 
-import jobFunction as jf
+from jobFunction import JobAnalysis
 
 app = Flask(__name__)
+jf = JobAnalysis()
 
 @app.route('/')
 def index():
